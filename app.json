@@ -1,0 +1,6 @@
+{
+  "name": "REST Service Localizador",
+  "description": "Servicio rest para guardar informacion del repositorio",
+  "repository": "https://github.com/localizadorgps/restService",
+  "addons": []
+}
